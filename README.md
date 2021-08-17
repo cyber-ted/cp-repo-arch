@@ -5,8 +5,11 @@
 ## How to use
  To use this add the following in your /etc/pacman.conf
 
+## CODE
 [cp-repo-arch]
+
 SigLevel = Never 
+
 Server = https://raw.githubusercontent.com/cyberprince04107/$repo/main/$arch
 
 This should be good 
