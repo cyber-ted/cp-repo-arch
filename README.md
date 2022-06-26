@@ -3,9 +3,8 @@
  This is an alternate to the AUR 
 
 ## How to use
- To use this add the following in your /etc/pacman.conf
-
-## CODE
+To use this add the following in your /etc/pacman.conf
+ 
 [cp-repo-arch]
 
 SigLevel = Never 
