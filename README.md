@@ -4,14 +4,14 @@
 
 ## How to use
 To use this add the following in your /etc/pacman.conf
- 
-[cp-repo-arch]
 
-SigLevel = Never 
+[   cp-repo-arch]
 
-Server = https://raw.githubusercontent.com/cyberprince04107/$repo/main/$arch
+    SigLevel = Never 
 
-This should be good 
+    Server = https://raw.githubusercontent.com/cyberprince04107/$repo/main/$arch
+
+This should be good. 
 
 ## Support
 
