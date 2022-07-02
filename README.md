@@ -9,7 +9,7 @@ To use this add the following in your /etc/pacman.conf
 
     SigLevel = Never 
 
-    Server = https://raw.githubusercontent.com/cyberprince04107/$repo/main/$arch
+    Server = https://raw.githubusercontent.com/cyber-ted/$repo/main/$arch
 
 This should be good. 
 
